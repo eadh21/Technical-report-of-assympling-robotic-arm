@@ -1,0 +1,9 @@
+3D model of the robotic arm
+
+The robotic arm consist of 5 parts including the gripper which can be replaced depending on the purpose of the arm
+to assymple the robotic arm we have to follow these steps
+First, put the base on the ground and you can secure it on the ground for smother experince, then put the cover on it and secure it so we can connect the first arm
+Second, connect the first arm with the base and include the servo if avaliable.
+third, connect the second arm with the first arm the same way
+Finally, connect the gripper with the second arm and dont forget the servo if avaliable
+Some points to consider, donts forget to connect the screws when assympling the parts and put the servo in the correct place when connecting the parts.
